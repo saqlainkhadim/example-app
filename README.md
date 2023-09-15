@@ -1,8 +1,7 @@
-# example-app
 
 <h2>Example app to Open it in vscode Online</h2>
 
-<h1 style="font-size: medium;">PHP|Laravel Backend Dev. </h1>
+<h1 style="font-size: 20px;">PHP|Laravel Backend Dev. </h1>
 <br> Follow me for more: <a href="https://www.linkedin.com/in/saqlainkhadim/">
     https://www.linkedin.com/in/saqlainkhadim/</a>
 <br>contact me for my services: <a href="mail:saqlainkhadimbusiness@gmail.com">saqlainkhadimbusiness@gmail.com</a>
